@@ -1,0 +1,203 @@
+"Search the web if you want an explanation, I don't have anything handy and certainly have no interest in writing it up."
+
+"Sure, I'd love to debug your application for you!"
+
+#11900 You cannot just paste code with no understanding of what is going on and expect it to work.
+#11901 You can't just make shit up and expect the computer to know what you mean, Retardo!
+#11902 You said it didn't work, but you didn't say what it would have done if it *had* worked.
+#11903 What are you really trying to accomplish here?
+#11904 Who the fuck cares which one is faster?
+#11905 Now is the time in our program where you look at the manual.
+#11906 Look at the error message!  Look at the error message!
+#11907 Looking for a compiler bug is the strategy of LAST resort.  LAST resort.
+#11908 Premature optimization is the root of all evil.
+#11909 Bad programmer!  No cookie!
+#11910 I see you omitted $! from the error message.   It won't tell you what went wrong if you don't ask it to.
+#11911 You wrote the same thing twice here.  The cardinal rule of programming is that you never ever write the same thing twice.
+#11912 Evidently it's important to you to get the wrong answer as quickly as possible.
+#11913 Gee, I don't know.  I wonder what the manual says about that?
+#11914 Well, no duh.  That's because you ignored the error message, dimwit.
+#11915 Only Sherlock Holmes can debug the program by pure deduction from the output.  You are not Sherlock Holmes.  Run the fucking debugger already.
+#11916 Always ignore the second error message unless the meaning is obvious.
+#11917 Read.  Learn.  Evolve.
+#11918 Well, then get one that *does* do auto-indent.  You can't do good work with bad tools.
+#11919 No.  You must believe the ERROR MESSAGE.  You MUST believe the error message.
+#11920 The error message is the Truth.  The error message is God.  
+#11921 It could be anything.  Too bad you didn't bother to diagnose the error, huh?
+#11922 You don't suppress error messages, you dumbass, you PAY ATTENTION and try to understand them.
+#11923 Never catch a signal except as a last resort.
+#11924 Well, if you don't know what it does, why did you put it in your program?
+#11925 Gosh, that wasn't very bright, was it?
+#11926 That's like taking a crap on someone's doorstep and then ringing the doorbell to ask for toilet paper.
+#11927 A good approach to that problem would be to hire a computer programmer.
+#11928 First get a book on programming.  Then read it.  Then write the program.
+#11929 First ask yourself 'How would I do this without a computer?'  Then have the computer do it the same way.
+#11930 Would you like to see my rate card?
+#11931 I think you are asking the wrong question here.
+#11932 Holy cow.
+#11933 Because it's a syntax error.
+#11934 Because this is Perl, not C.
+#11935 Because this is Perl, not Lisp.
+#11936 Because that's the way it is.
+#11937 Because.
+#11938 If you have 'some weird error', the problem is probably with your frobnitzer.
+#11939 Because the computer cannot read your mind.  Guess what?  I cannot read your mind *either*.
+#11940 You said 'It doesn't work'.  The next violation will be punished by death.
+#11941 Of course it doesn't work!  That's because you don't know what you are doing!
+#11942 Sure, but you have to have some understanding also.
+#11943 Ah yes, and you are the first person to have noticed this bug since 1987.  Sure.
+#11944 Yes, that's what it's supposed to do when you say that.
+#11945 Well, what did you expect?
+#11946 Perhaps you have forgotten that this is an engineering discipline, not some sort of black magic.
+#11947 You know, this sort of thing is amenable to experimental observation.
+#11948 Perhaps your veeblefitzer is clogged.
+#11949 What happens when you try?
+#11950 Now you are just being superstitious.  
+#11951 Your question has exceeded the system limit for pronouns in a single sentence.  Please dereference and try again.
+#11952 In my experience that is a bad strategy, because the people who ask such questions are the ones who paste the answer into their program without understanding it and then complain that it 'does not work'.
+#11953 Of course, this is a heuristic, which is a fancy way of saying that it doesn't work.
+#11954 If your function is written correctly, it will handle an empty array the same way as a nonempty array.
+#11955 When in doubt, use brute force.
+#11956 Well, it might be more intuitive that way, but it would also be useless.
+#11957 Show the code.
+#11958 The bug is in you, not in Perl.
+#11959 Cargo-cult.
+#11960 So you threw in some random punctuation for no particular reason, and then you didn't get the result you expected.  Hmmmm.
+#11961 How should I know what is wrong when I haven't even seen the code?  I am not clairvoyant.
+#11962 How should I know how to do what you want when you didn't say what you wanted to do?
+#11963 It's easy to get the *wrong* answer in O(1) time.
+#11964 I guess this just goes to show that you can lead a horse to water, but you can't make him drink it.
+#11999 You are a stupid asshole.  Shut the fuck up. 
+
+
+“Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.”
+- Eric S. Raymond
+
+“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”
+- Mosher’s Law of Software Engineering
+
+“Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN’T be like.”
+- pixadel
+
+"Good design adds value faster than it adds cost."
+- Thomas C. Gale
+
+"Talk is cheap. Show me the code."
+- Linus Torvalds
+
+"Perfection [in design] is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+- Antoine de Saint-Exupéry
+
+"In theory, theory and practice are the same. In practice, they’re not."
+- Yoggi Berra
+
+“You can’t have great software without a great team, and most software teams behave like dysfunctional families.”
+- Jim McCarthy
+
+"PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals."
+- Jon Ribbens
+
+"Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry"
+- Ted Nelson
+
+“The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.”
+- Randall E. Stross
+
+"Beware of bugs in the above code; I have only proved it correct, not tried it."
+- Donald E. Knuth.
+
+"I don't care if it works on your machine! We are not shipping your machine!"
+- Vidiu Platon.
+
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."
+- Christopher Thompson
+
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+- Bill Gates
+
+"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+- Brian W. Kernighan.
+
+“First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.”
+- George Carrette
+
+“Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.”
+- Larry Wall
+
+“Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.”
+- Alan Kay
+
+“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.”
+- Seymour Cray
+
+"On two occasions I have been asked [by members of Parliament]: 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."
+- Charles Babbage
+
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+- Linus Torvalds
+
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+- Martin Golding
+
+“There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.”
+- C.A.R. Hoare
+
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger Dijkstra
+
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time. – Tom Cargill
+
+Walking on water and developing software from a specification are easy if both are frozen. – Edward V Berard
+
+“Theory and practice sometimes clash. And when that happens, theory loses. Every single time.” – Linus Torvalds
+
+“It’s a good thing to turn your mind upside down now and then, like an hour-glass, to let the particles run the other way.” – Christopher
+
+“If the path be beautiful, let us not ask where it leads.” – Anatole France
+
+“To accomplish great things, we must not only act, but also dream; not only plan, but also believe.” – Anatole France
+
+“Talent hits a target no one else can hit; Genius hits a target no one else can see.” - Arthur Schopenhauer
+
+“Live as if you were to die tomorrow. Learn as if you were to live forever.” – Mahatma Gandhi
+
+Another effective technique is to explain your code to someone else. This will often cause you to explain the bug to yourself. Sometimes it takes no more than a few sentences, followed by an embarrassed "Never mind, I see what's wrong. Sorry to bother you." This works remarkably well; you can even use non-programmers as listeners. One university computer center kept a teddy bear near the help desk. Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor. ~Brian Kernighan and Rob Pike, about debugging
+
+A good programmer is someone who always looks both ways before crossing a one-way street. ~Doug Linder
+
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ~Martin Fowler
+
+Good code is its own best documentation. As you're about to add a comment, ask yourself, "How can I improve the code so that this comment isn't needed?" ~Steve McConnell
+
+Great software, likewise, requires a fanatical devotion to beauty. If you look inside good software, you find that parts no one is ever supposed to see are beautiful too. I'm not claiming I write great software, but I know that when it comes to code I behave in a way that would make me eligible for prescription drugs if I approached everyday life the same way. It drives me crazy to see code that's badly indented, or that uses ugly variable names. ~Paul Graham, "Hackers and Painters," 2003
+
+One man's crappy software is another man's full time job. ~Jessica Gaston
+
+If you cannot grok the overall structure of a program while taking a shower, e.g., with no external memory aids, you are not ready to code it. ~Richard Pattis
+
+It's easy to cry "bug" when the truth is that you've got a complex system and sometimes it takes a while to get all the components to co-exist peacefully.  ~Doug Vargas
+
+It's okay to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it. ~Steve McConnell
+
+Ready, fire, aim:  the fast approach to software development.  Ready, aim, aim, aim, aim:  the slow approach to software development.  ~Author Unknown
+
+When debugging, novices insert corrective code; experts remove defective code. ~Richard Pattis
+
+What I mean is that if you really want to understand something, the best way is to try and explain it to someone else. That forces you to sort it out in your own mind. And the more slow and dim-witted your pupil, the more you have to break things down into more and more simple ideas. And that's really the essence of programming. By the time you've sorted out a complicated idea into little steps that even a stupid machine can deal with, you've certainly learned something about it yourself. ~Douglas Adams
+
+"Weeks of programming can save you hours of planning."
+
+Without requirements or design, programming is the art of adding bugs to an empty text file. (Louis Srygley)
+
+Before software can be reusable it first has to be usable. (Ralph Johnson)
+
+If builders built buildings the way programmers wrote programs, then the first woodpecker that came along wound destroy civilization. (Gerald Weinberg)
+
+Deleted code is debugged code. (Jeff Sickel)
+
+It’s a curious thing about our industry: not only do we not learn from our mistakes, we also don’t learn from our successes. (Keith Braithwaite)
+
+In order to understand recursion, one must first understand recursion. (Anonymous)
+
+"Computers are useless.  They can only give you answers." (Pablo Picasso)
+
+

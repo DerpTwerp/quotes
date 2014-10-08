@@ -248,31 +248,31 @@ How this feels is I'm just another task in God's daily planner: The Renaissance 
 -Chuck Palahniuk, Haunted
 
 Everyone smiles with that invisible gun to their head.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 Find out what you're afraid of and go live there.
-- Chuck Palahniuk 
+- Chuck Palahniuk
 
 I wanted to write about the moment when your addictions no longer hide the truth from you. When your whole life breaks down. That's the moment when you have to somehow choose what your life is going to be about.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 More and more, it feels like I'm doing a really bad impersonation of myself.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 Sometimes the past seems too big for the present to hold.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 Sometimes you do something, and you get screwed. Sometimes it's the things you don't do, and you get screwed.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 The answer is there is no answer.
 -Chuck Palahniuk
 
 The only difference between suicide and martyrdom is press coverage.
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 Where would Jesus be if no one had written the gospels?
--Chuck Palahniuk 
+-Chuck Palahniuk
 
 Someone bent on suicide won’t have much sense of humour left.
 - Chuck Palahniuk
@@ -298,7 +298,7 @@ I refuse to be labeled immoral merely because I am godless. ~ Peter Walker
 I have yet to see any problem, however complicated, which, when you looked at it in the right way, did not become still more complicated. - Poul Anderson
 
 When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough.
- Maurice Maeterlinck, Wisdom and Destiny, 1898 
+ Maurice Maeterlinck, Wisdom and Destiny, 1898
  Belgian dramatist, essayist, & poet (1862 - 1949)
 
 I shall adopt new views as fast as they shall appear to be true views.
@@ -969,3 +969,6 @@ so here i sit a puppetmaster who wants nothing from his puppets. xkcd.com/792/
 
 "My paintings seem to make the strongest impression on people who are, well, who are crazy. If they like my work they are creative ... or they are crazy." - H.R. Giger - 1979 interview with Starlog magazine
 
+“We must encourage [each other] – once we have grasped the basic points – to interconnecting everything else on our own, to use out memory to guide our original thinking, and to accept what someone else says as a starting point, a seed to be nourished and grow. For the correct analogy for the mind is not a vessel that needs filling but wood that needs igniting – no more – and then it motivates one towards originality and instills the desire for truth.
+“Suppose someone were to go and ask his neighbors for fire and find a substantial blaze there, and just stay they continually warming himself: that is no different from someone who goes to someone else to get to some of his rationality, and fails to realize that he ought to ignite his own flame, his own intellect, but is happy to sit entranced by the lecture, and the words trigger only associative thinking and bring, as it were, only a flush to his cheeks and a glow to his limbs; but he has not dispelled or dispersed, in the warm light of philosophy, the internal dank gloom of his mind.”
+-	Plutarch

@@ -972,3 +972,6 @@ so here i sit a puppetmaster who wants nothing from his puppets. xkcd.com/792/
 “We must encourage [each other] – once we have grasped the basic points – to interconnecting everything else on our own, to use out memory to guide our original thinking, and to accept what someone else says as a starting point, a seed to be nourished and grow. For the correct analogy for the mind is not a vessel that needs filling but wood that needs igniting – no more – and then it motivates one towards originality and instills the desire for truth.
 “Suppose someone were to go and ask his neighbors for fire and find a substantial blaze there, and just stay they continually warming himself: that is no different from someone who goes to someone else to get to some of his rationality, and fails to realize that he ought to ignite his own flame, his own intellect, but is happy to sit entranced by the lecture, and the words trigger only associative thinking and bring, as it were, only a flush to his cheeks and a glow to his limbs; but he has not dispelled or dispersed, in the warm light of philosophy, the internal dank gloom of his mind.”
 -	Plutarch
+
+
+"There is both some really dumb stuff and some really brilliant stuff in there." - Mike Scanlon [better without context, but referring to HDC code base]
